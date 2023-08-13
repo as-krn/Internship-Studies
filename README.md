@@ -1,6 +1,7 @@
 <h1># Internship-Studies</h1>
 The studies I have done during the internship
-ENG
+<h2>ENG</h2>
+<br>
 I am sharing the work I have done during my internship.
 I wanted to compile the research and studies I have done about data science and machine learning topics in order.
 <ul>
@@ -12,7 +13,8 @@ I wanted to compile the research and studies I have done about data science and 
 <li>6.KNN and Decision Trees</li>
 </ul>
 
-TR
+<h2>TR</h2>
+<br>
 Staj boyunca yapmış olduğum çalışmaları paylaşıyorum .
 Veri bilimi ve makine öğrenmesi konuları hakkında yapmış olduğum araştırma ve çalışmaları sırası ile derlemek istedim.
 <ul>
